@@ -1,0 +1,21 @@
+{
+  "name": "EduSafe",
+  "short_name": "EduSafe",
+  "description": "Secure your academic journey with offline-first learning capabilities",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#5D5CDE",
+  "icons": [
+    {
+      "src": "img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
