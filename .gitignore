@@ -1,5 +1,11 @@
 # Node modules folder
 node_modules/
+dist/
+.cache/
+*.log
+*.tmp
+.DS_Store
+.env
 
 # Build output folder
 dist/
@@ -26,3 +32,4 @@ Thumbs.db
 
 # Optional: cache folders
 .cache/
+
